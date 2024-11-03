@@ -3,6 +3,6 @@ The used car market is vast, and determining the right price for a car can be ch
 a machine learning model that can accurately predict the selling price of a car based on its characteristics. The model should help potential buyers and sellers to estimate the fair market value of a car based on its attributes.
 
 Team Members
-- Niyaz Ahmed
-- Vinay
-- Jyothi Kiran Satya Raju
+- Niyaz Ahmed (E23CSEU2355)
+- Vinay (E23CSEU2345)
+- Jyothi Kiran Satya Raju (E23CSEU2363)
